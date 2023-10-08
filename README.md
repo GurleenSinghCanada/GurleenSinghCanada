@@ -1,8 +1,8 @@
-<h1>Hi, I'm Gurleen Singh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Gurleen Singh! <br/><a href="https://github.com/GurleenSinghCanada">Programmer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <bJava FX</b>
+- <b>Java FX</b>
   - [Student Management System](https://github.com/GurleenSinghCanada/Student-Managment-System)
 - <b>Game</b>
   - [War Game](https://github.com/GurleenSinghCanada/WarGame)
