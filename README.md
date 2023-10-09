@@ -2,25 +2,13 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>PHP MYSQL CRUD Project</b>
+  - [Phone Management System](https://github.com/GurleenSinghCanada/Phone-Management-System/tree/main)
 - <b>Java FX</b>
   - [Student Management System](https://github.com/GurleenSinghCanada/Student-Managment-System)
 - <b>Game</b>
   - [War Game](https://github.com/GurleenSinghCanada/WarGame)
-- <b>PHP MYSQL CRUD Project</b>
-  - [Phone Management System](https://github.com/GurleenSinghCanada/Phone-Management-System/tree/main)
 
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
