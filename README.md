@@ -14,9 +14,9 @@
 
 - <b>Two VPCs with full mesh VPC Peering </b>
   - [Phone Management System](https://github.com/GurleenSinghCanada/Phone-Management-System/tree/main)
-  <b>Secure Web Hosting with AWS S3 and CORS Integration </b>
+- <b>Secure Web Hosting with AWS S3 and CORS Integration </b>
   - [Phone Management System](https://github.com/GurleenSinghCanada/Phone-Management-System/tree/main)
-  <b>AWS Multi-Instance Deployment with Docker Orchestration</b>
+- <b>AWS Multi-Instance Deployment with Docker Orchestration</b>
   - [Phone Management System](https://github.com/GurleenSinghCanada/Phone-Management-System/tree/main)
 
 
