@@ -10,6 +10,16 @@
   - [War Game](https://github.com/GurleenSinghCanada/WarGame)
 
 
+<h2>👨‍💻 AWS Projects </h2>
+
+- <b>Two VPCs with full mesh VPC Peering </b>
+  - [Phone Management System](https://github.com/GurleenSinghCanada/Phone-Management-System/tree/main)
+  - b>Secure Web Hosting with AWS S3 and CORS Integration </b>
+  - [Phone Management System](https://github.com/GurleenSinghCanada/Phone-Management-System/tree/main)
+  - b>AWS Multi-Instance Deployment with Docker Orchestration</b>
+  - [Phone Management System](https://github.com/GurleenSinghCanada/Phone-Management-System/tree/main)
+
+
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
