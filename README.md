@@ -12,12 +12,12 @@
 
 <h2>👨‍💻 AWS Projects </h2>
 
-- <b>Two VPCs with full mesh VPC Peering </b>
-  - [Phone Management System](https://github.com/GurleenSinghCanada/Phone-Management-System/tree/main)
-- <b>Secure Web Hosting with AWS S3 and CORS Integration </b>
-  - [Phone Management System](https://github.com/GurleenSinghCanada/Phone-Management-System/tree/main)
-- <b>AWS Multi-Instance Deployment with Docker Orchestration</b>
-  - [Phone Management System](https://github.com/GurleenSinghCanada/Phone-Management-System/tree/main)
+- <b> VPC Peering </b>
+  - [Two VPCs with full mesh VPC Peering](https://github.com/gurleendev/Two-VPCs-with-full-mesh-VPC-Peering-.git)
+- <b>S3 and CORS Integration </b>
+  - [Secure Web Hosting with AWS S3 and CORS Integration ](https://github.com/gurleendev/Secure-Web-Hosting-with-AWS-S3-and-CORS-Integration.git)
+- <b>Docker and Security Groups</b>
+  - [AWS Multi-Instance Deployment with Docker Orchestration](https://github.com/GurleenSinghCanada/Phone-Management-System/tree/main)
 
 
 <!--
