@@ -17,7 +17,7 @@
 - <b>S3 and CORS Integration </b>
   - [Secure Web Hosting with AWS S3 and CORS Integration ](https://github.com/gurleendev/Secure-Web-Hosting-with-AWS-S3-and-CORS-Integration.git)
 - <b>Docker and Security Groups</b>
-  - [AWS Multi-Instance Deployment with Docker Orchestration](https://github.com/GurleenSinghCanada/Phone-Management-System/tree/main)
+  - [AWS Multi-Instance Deployment with Docker Orchestration](https://github.com/gurleendev/AWS-Multi-Instance-Deployment-with-Docker-Orchestration.git)
 
 
 <!--
