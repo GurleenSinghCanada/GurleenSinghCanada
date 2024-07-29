@@ -1,13 +1,23 @@
 <h1>Hi, I'm Gurleen Singh! <br/><a href="https://github.com/GurleenSinghCanada">Programmer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
+<h3>👨‍💻 C#:</h3>
 
-- <b>PHP MYSQL CRUD Project</b>
-  - [Phone Management System](https://github.com/GurleenSinghCanada/Phone-Management-System/tree/main)
+- <b>ADO.NET</b>
+  - [ADO.NET(Disconnected Model)](https://github.com/gurleendev/ADO.NET-CSharp)
+- <b>ASP.NET Core</b>
+  - [Jokes Web app](https://github.com/gurleendev/Jokes-Web-App-ASP.NET-Core-)
+- <b>Restful Api BuberBreakfast Project</b>
+  - [BuberBreakfast](https://github.com/gurleendev/BuberBreakfast)
+
+<h3>👨‍💻 Java:</h3>
+
 - <b>Java FX</b>
   - [Student Management System](https://github.com/GurleenSinghCanada/Student-Managment-System)
 - <b>Game</b>
   - [War Game](https://github.com/GurleenSinghCanada/WarGame)
+- <b>PHP MYSQL CRUD Project</b>
+  - [Phone Management System](https://github.com/GurleenSinghCanada/Phone-Management-System/tree/main)
 
 
 <h2>👨‍💻 AWS Projects </h2>
