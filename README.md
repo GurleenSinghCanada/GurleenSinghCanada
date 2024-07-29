@@ -3,10 +3,10 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 <h3>👨‍💻 C#:</h3>
 
-- <b>ADO.NET</b>
-  - [ADO.NET(Disconnected Model)](https://github.com/gurleendev/ADO.NET-CSharp)
 - <b>ASP.NET Core</b>
   - [Jokes Web app](https://github.com/gurleendev/Jokes-Web-App-ASP.NET-Core-)
+- <b>ADO.NET</b>
+  - [ADO.NET(Disconnected Model)](https://github.com/gurleendev/ADO.NET-CSharp)
 - <b>Restful Api BuberBreakfast Project</b>
   - [BuberBreakfast](https://github.com/gurleendev/BuberBreakfast)
 
